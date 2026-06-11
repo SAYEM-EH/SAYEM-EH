@@ -1,8 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=SAYEM-EH&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Cyber%20Security%20%7C%20Penetration%20Tester%20%7C%20Red%20Teamer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 
-## 📌 About Me
-- I am a passionate Penetration Tester and Web Application Security Specialist with 2+ years of hands-on experience in cybersecurity, vulnerability assessment, and offensive security testing. My expertise lies in identifying, validating, and reporting security vulnerabilities across modern web applications while helping organizations strengthen their security posture.
+## About Me
+
+I'm **[SAYEM-EH](https://medium.com/@sayemeh)** — Penetration Tester & Web Application Security Researcher On my way to becoming a full-fledged Cybersecurity Specialist and Offensive.
+
+"Technology has always been my playground. From red teaming and offensive security to real-world attack simulation and vulnerability research — I thrive on thinking like an adversary to strengthen defenses, expose weaknesses, and build a more resilient digital world."
 
 <details>
   <summary><b>More About Me</b></summary>
@@ -19,8 +22,27 @@
 <br>
 
 
-## 🧠 My Focus Areas
-- Security Researcher | Ethical Hacker Pentration Tester | Bug Hunter Network Security | Web App Security
+---
+<h2 id="present_status"> Present Status </h2>
+
+<img width="32.3%" align="right" src="https://github.com/sayemjod444/iamge-up/blob/main/8269019_3878182.jpg">
+
+➤ Studying Red Team Operations & Real-World Attack Simulation.
+
+➤ Researching Web Security, Offensive Techniques & Exploit Development.
+
+➤ Building custom security tools and automation frameworks.
+
+➤ Learning Active Directory Exploitation, Lateral Movement & Post-Exploitation.
+
+➤ Contributing to Open Source Security Projects and Community Initiatives.
+
+➤ Constantly improving offensive tradecraft and adversarial thinking.
+
+⚔️ Mission: Journey to Becoming a Skilled Red Team Operator & Offensive Security Specialist.
+
+
+---
 
 ## 🛠 Tech Arsenal
 
@@ -69,7 +91,9 @@
 
 <div>
   
-![Terminal](https://readmeforge.natrajx.in/api/terminal?title=profile.sh&lines=%24+whoami%7CCyber+Security%7C%24+echo+%24STACK%7CPenetration+Tester%C2%B7+Network+%C2%B7+Web+%C2%B7+System%7C%24+cat+Kurox+Protocol.txt%7C+Open+Source+%C2%B7+Script+%C2%B7+Built+for+breaking+limits&theme=dark&metal=obsidian&width=1000&align=center)
+![System Loading 100%](https://readmeforge.natrajx.in/api/progress-bar?label=System+Loading&value=100&metal=aurora&style=metallic&width=800&theme=dark)
+  
+![Terminal](https://readmeforge.natrajx.in/api/terminal?title=profile.sh&lines=%24+whoami%7CS4YEM+.7KuroX%7C%24+echo+%24STACK%7CPenetration+Tester%C2%B7+Network+%C2%B7+Web+%C2%B7+System%7C%24+cat+Kurox+Protocol.txt%7C+Open+Source+%C2%B7+Script+%C2%B7+Built+for+breaking+limits&theme=dark&metal=obsidian&width=1000&align=center)
 
 </div>
 
@@ -91,6 +115,9 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
 
+<br>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
+
