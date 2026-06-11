@@ -12,10 +12,10 @@ I'm **[SAYEM-EH](https://medium.com/@sayemeh)** — Penetration Tester & Web App
 
 - *Name*: SAYEM-EH
 - *Location*: Earth  
-- *Roles*: Penetration Tester | Ethical Hacker | Bug Bounty Hunter 
-- *Skilled in*:  Bug Hunting, Social Engineering, Red Teaming, Malware Analysis, Cracking 
-- *Focused on*: Web Vulnerabilities,  System Pentesting, Web3 Security  
-- *Currently Learning*: Everything cybersecurity-related  
+- *Roles*: Offensive Security Enthusiast | Red Team Operator | Penetration Tester | Ethical Hacker
+- *Skilled in*:  Red Teaming, Web Application Security, Network Pentesting, Vulnerability Research, Security Automation
+- *Focused on*: Advanced Offensive Security, Red Team Tradecraft, Internal Network Operations, Cloud & Web3 Security
+- *Currently Learning*: Everything cybersecurity-related Adversary Emulation, Attack Surface Analysis, Active Directory Security, Web Exploitation & Security Assessments
 </details>
  
 
@@ -23,7 +23,7 @@ I'm **[SAYEM-EH](https://medium.com/@sayemeh)** — Penetration Tester & Web App
 
 
 ---
-<h2 id="present_status"> Present Status </h2>
+<h2 id="present_status"> Current Operations </h2>
 
 <img width="32.3%" align="right" src="https://github.com/sayemjod444/iamge-up/blob/main/8269019_3878182.jpg">
 
@@ -44,7 +44,7 @@ I'm **[SAYEM-EH](https://medium.com/@sayemeh)** — Penetration Tester & Web App
 
 ---
 
-## 🛠 Tech Arsenal
+## 👨🏻‍💻 Weaponized Arsenal
 
 <br>
 
@@ -120,4 +120,6 @@ I'm **[SAYEM-EH](https://medium.com/@sayemeh)** — Penetration Tester & Web App
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
+
+![Kurox Protocol • Sayem.p7x • Error 404](https://readmeforge.natrajx.in/api/text-anim?text=Kurox+Protocol+%E2%80%A2+Sayem.p7x+%E2%80%A2+Error+404&effect=neon-flicker&metal=aurora&width=606&size=28&theme=light)
 
