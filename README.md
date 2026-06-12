@@ -103,7 +103,7 @@ I'm **[SAYEM-EH](https://medium.com/@sayemeh)** — Penetration Tester & Web App
 ## Find Me Around the Web
 
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sayemeh)
-[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/INTELEON404)
+[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/)
 
 
 ## Connect with Me
